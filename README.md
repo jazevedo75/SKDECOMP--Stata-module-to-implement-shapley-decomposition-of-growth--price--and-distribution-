@@ -1,6 +1,6 @@
 # SKDECOMP: Stata module to estimate Shapley value of growth, price, and distribution components on changes in poverty indicators
 
-## Abstract
+## Description
 skdecomp implements the shapley value of Kolenikov and Shorrocks (2003) decomposition of changes in a welfare indicator into growth, distribution and price.
 
 ## Suggested Citation
