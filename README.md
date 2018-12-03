@@ -6,8 +6,6 @@ skdecomp implements the shapley value of Kolenikov and Shorrocks (2003) decompos
 ## Suggested Citation
 [Bernardo Atuesta & Joao Pedro Azevedo & Andres Castaneda & Viviane Sanfelice, 2012. "SKDECOMP: Stata module to estimate Shapley value of growth, price, and distribution components on changes in poverty indicators," Statistical Software Components S457564, Boston College Department of Economics.](https://ideas.repec.org/c/boc/bocode/s457564.html)
 
-### Handle: RePEc:boc:bocode:s457564 
-
 ## References
 
     Shorrocks, A.; Kolenikov, S. A Decomposition Analysis of Regional Poverty in Russia,
@@ -20,6 +18,8 @@ skdecomp implements the shapley value of Kolenikov and Shorrocks (2003) decompos
     Caribbean during the Great Recession and Beyond. LAC Poverty and Labor Brief. World Bank:
     Washington DC.   (link to publication)
 
+
+### Handle: RePEc:boc:bocode:s457564 
 
 ### Note: 
 This module should be installed from within Stata by typing "ssc install skdecomp". Windows users should not attempt to download these files with a web browser.
