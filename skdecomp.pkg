@@ -1,0 +1,10 @@
+v 0.0.0
+d 'SKDECOMP' 
+d 
+d Distribution-Date: 
+d License: MIT
+d 
+F src/e/exdata_skdecomp.dta
+F src/s/skdecomp.ado
+F src/s/skdecomp.hlp
+F src/_/_ex_skdecomp.ado
