@@ -1,7 +1,7 @@
-v 0.0.0
-d 'SKDECOMP' 
+v 1.0
+d 'SKDECOMP': Stata module to estimate Shapley value of growth, price, and distribution components on changes in poverty indicators
 d 
-d Distribution-Date: 
+d Distribution-Date: 15Apr2012
 d License: MIT
 d 
 F src/e/exdata_skdecomp.dta
